@@ -1,0 +1,57 @@
+# Handgraaf The Keep
+
+> Handgraaf Estates connects private-service staffing, day-to-day estate operations and a permanent operating record for primary residences, additional properties and other significant assets.
+
+## The Keep
+
+- [Handgraaf The Keep](https://systems.handgraafestates.com/): The people who run your estate, and the system that remembers it.
+- [Working demonstration](https://demo.handgraafestates.com/): A fully populated, fictional demonstration estate showing the principal and estate-professional views.
+
+The Keep preserves household knowledge in one operating record per property. It covers staff responsibilities, household standards, vendors, preventative maintenance, service history, warranties, projects, calendars, approvals, receipts and annual expenditure.
+
+The principal sees decisions that require attention. The estate professional sees the work. Both use the same underlying record.
+
+## What Handgraaf provides
+
+- Private estate management for primary residences, second homes and other significant assets.
+- Recruitment, vetting and placement of private-service professionals.
+- Household operating standards, responsibilities and approval thresholds.
+- Staff direction and vendor oversight.
+- Preventative maintenance and project coordination.
+- Estate calendars, service history and expenditure records.
+- Continuity when a manager, employee or vendor changes.
+- A permanent estate record that remains with the home.
+
+Handgraaf serves La Jolla, Rancho Santa Fe, Del Mar and the wider San Diego area, with support for additional properties elsewhere in the United States and abroad.
+
+## How it differs from estate-management software
+
+Estate-management software is normally purchased and maintained by the household. The Keep is operated as part of Handgraaf's estate-management work and populated as work happens. The principal receives the record without being asked to build or maintain it.
+
+Each estate uses a separate, isolated database. Access is granted to named accounts only and is revocable at any time by the principal. Client data is never used to train anything outside the client's own record.
+
+Automated review may document facts already supported by estate records and flag matters for a manager. It never contacts anyone and never authorizes spending.
+
+## Household staffing
+
+- [How Handgraaf vets and places household staff](https://ourprocess.handgraafestates.com/): The family and candidate process, assessment standards, consent-based screening, paid trials and placement support.
+- [Current private-service openings](https://ourprocess.handgraafestates.com/#openings)
+- [Apply to Handgraaf](https://ourprocess.handgraafestates.com/#application): Candidates never pay a fee.
+
+## Related Handgraaf services
+
+- [Handgraaf Estates](https://www.handgraafestates.com/): Main site
+- [Services](https://www.handgraafestates.com/services)
+- [Private household staffing](https://www.handgraafestates.com/staffing)
+- [Primary residence management](https://www.handgraafestates.com/main-residence)
+- [Second-home management](https://www.handgraafestates.com/vacation-home)
+- [Investment-property support](https://www.handgraafestates.com/investment-property)
+- [Job Board](https://www.handgraafestates.com/staffing-positions)
+- [About Handgraaf](https://www.handgraafestates.com/about-us-cont)
+
+## Contact
+
+- [Discuss an estate or placement](https://www.handgraafestates.com/#contact)
+- Handgraaf Estates, La Jolla / San Diego, California
+- Email: info@handgraafestates.com
+- Telephone: +1 858 280 5281
