@@ -1,23 +1,34 @@
-# Handgraaf Estate Management
+# The Keep by Handgraaf Estates
 
-Standalone estate-management landing page for Handgraaf Estates.
+Source for [systems.handgraafestates.com](https://systems.handgraafestates.com), the estate operating system provided by Handgraaf Estates.
+
+The Keep begins at placement handover. It supports onboarding, household standards, operating procedures, records, maintenance, vendors, and continuity. Recruitment, assessment, reference verification, background screening, and candidate applications belong to [Our Process](https://ourprocess.handgraafestates.com) and are maintained in the separate `handgraaf-our-process` repository.
+
+## Project structure
+
+- `index.html` — production landing page
+- `netlify.toml` — Netlify deployment configuration
+
+The site is a standalone static HTML deployment with no package installation or build step.
+
+## Local preview
+
+```sh
+python3 -m http.server 4173
+```
+
+Open `http://127.0.0.1:4173/`.
 
 ## Deployment
 
-The site is a static HTML deployment hosted on Netlify. Netlify publishes the repository root using the settings in `netlify.toml`.
+Netlify publishes the repository root automatically from `main`.
 
-- Production branch: `main`
-- Entry point: `index.html`
-- Production domain: `systems.handgraafestates.com`
-- Demo dashboard: https://demo.handgraafestates.com
+- Production domain: [systems.handgraafestates.com](https://systems.handgraafestates.com)
+- Dashboard demonstration: [demo.handgraafestates.com](https://demo.handgraafestates.com)
+- Netlify site: `estatehandgraafestates.netlify.app`
 
-## Updating the site
+After publishing, verify the production page on desktop and mobile and confirm that links to Our Process and the dashboard demonstration resolve correctly.
 
-1. Edit `index.html`.
-2. Commit the change to `main`.
-3. Netlify automatically builds and publishes the new version.
-4. Verify the production page on desktop and mobile.
+## Domain
 
-## Domain setup
-
-The Netlify primary domain is `systems.handgraafestates.com`. Its DNS CNAME record uses host `systems` and points to `estatehandgraafestates.netlify.app`.
+The `systems` DNS CNAME points to `estatehandgraafestates.netlify.app`. TLS is managed by Netlify.
